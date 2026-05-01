@@ -1,6 +1,0 @@
-{
-  "name": "dylan-codex-plugin",
-  "version": "1.0.0",
-  "description": "Dylan's private Codex plugin for reusable personal workflows.",
-  "skills": "./skills/"
-}
